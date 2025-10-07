@@ -18,6 +18,4 @@ Berikut contoh tampilan antarmuka dari aplikasi ini:
 
 ![Tampilan Cuaca](./public/preview.png)
 
-> 📌 Simpan screenshot hasil aplikasi kamu dengan nama `preview.png` ke dalam folder `public/images/`
-
 ---
