@@ -21,9 +21,3 @@ Berikut contoh tampilan antarmuka dari aplikasi ini:
 > 📌 Simpan screenshot hasil aplikasi kamu dengan nama `preview.png` ke dalam folder `public/images/`
 
 ---
-
-## ⚙️ Cara Instalasi & Menjalankan
-
-### 1. Clone atau salin project ke folder htdocs
-```bash
-C:\xampp\htdocs\weather-api
