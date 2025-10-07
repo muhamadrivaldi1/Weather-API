@@ -1,3 +1,34 @@
+# 🌦️ Aplikasi Cuaca Sederhana - Vue + Laravel API
+
+Aplikasi ini merupakan contoh **aplikasi cuaca berbasis web** yang dibangun menggunakan:
+- 🧠 **Laravel** sebagai backend untuk menyediakan endpoint `/api/weather`
+- 🖥️ **Vue.js 3 + TailwindCSS** untuk frontend interaktif dan responsif
+
+Aplikasi ini akan menampilkan informasi cuaca berdasarkan nama kota yang dimasukkan pengguna, seperti:
+- 🌡️ Suhu saat ini  
+- 💧 Kelembapan  
+- ☁️ Kondisi cuaca  
+- 💡 Rekomendasi aktivitas  
+
+---
+
+## 📸 Tampilan Aplikasi
+
+Berikut contoh tampilan antarmuka dari aplikasi ini:
+
+![Tampilan Cuaca](./public/images/preview.png)
+
+> 📌 Simpan screenshot hasil aplikasi kamu dengan nama `preview.png` ke dalam folder `public/images/`
+
+---
+
+## ⚙️ Cara Instalasi & Menjalankan
+
+### 1. Clone atau salin project ke folder htdocs
+```bash
+C:\xampp\htdocs\weather-api
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
